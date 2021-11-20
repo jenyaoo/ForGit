@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>fbb53314-6fdc-43f8-8081-5f4bb253f4c9</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Two.py</StartupFile>
+    <StartupFile>Снежинка.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="ForGit.py" />
+    <Compile Include="Снежинка.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Two.py">
       <SubType>Code</SubType>
     </Compile>
